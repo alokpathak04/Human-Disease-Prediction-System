@@ -6,7 +6,7 @@ The Smart Disease Predictor System is a Streamlit-based web application that lev
 
 ## Live Demo
 
-Experience the app live here: [Click Here] https://human-disease-prediction-system.streamlit.app/
+Experience the app live here: [Click Here] https://smart-symptom-based-disease-prediction.streamlit.app/
 
 
 ## Features
